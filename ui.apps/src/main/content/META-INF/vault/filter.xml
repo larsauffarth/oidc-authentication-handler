@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/oidc/clientlibs"/>
+    <filter root="/apps/oidc/components"/>
+    <filter root="/apps/oidc/i18n"/>
+</workspaceFilter>

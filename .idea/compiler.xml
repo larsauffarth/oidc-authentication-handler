@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oidc.all" />
+        <module name="oidc.ui.apps.structure" />
+        <module name="com.adobe.cq.cloud.testing.ui.cypress.tests" />
+        <module name="oidc.ui.config" />
+        <module name="oidc.ui.content" />
+        <module name="oidc.it.tests" />
+        <module name="oidc.core" />
+        <module name="oidc.ui.apps" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

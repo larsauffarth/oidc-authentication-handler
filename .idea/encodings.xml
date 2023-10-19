@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/all/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dispatcher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dispatcher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/it.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/it.tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.apps.structure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.apps.structure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.apps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.config/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.frontend/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.frontend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui.tests/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

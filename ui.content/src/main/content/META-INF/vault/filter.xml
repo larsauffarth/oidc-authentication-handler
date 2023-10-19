@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/oidc" mode="merge"/>
+    <filter root="/content/oidc" mode="merge"/>
+    <filter root="/content/dam/oidc" mode="merge">
+        <exclude pattern="/content/dam/oidc(/.*)?"/>
+        <include pattern="/content/dam/oidc/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/oidc/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/oidc" mode="merge"/>
+</workspaceFilter>

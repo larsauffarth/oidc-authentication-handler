@@ -1,0 +1,11 @@
+{
+  "getIssuer": "https://dev-id.okta.com",
+  "getClientId": "client-id",
+  "getClientSecret": "encrypted-client-secret",
+  "getScopes": [
+    "openid",
+    "profile",
+    "email"
+  ],
+  "getAuthCallback": "http://localhost:4502/content/oidc_callback"
+}

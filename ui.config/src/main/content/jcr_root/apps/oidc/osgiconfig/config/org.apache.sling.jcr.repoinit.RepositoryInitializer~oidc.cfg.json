@@ -1,0 +1,11 @@
+{
+    "scripts": [
+        "create service user oicd-user-admin",
+        "set ACL on /home\n  allow jcr:all for oicd-user-admin\nend",
+        "create group oidcUsers",
+        "set ACL on /content\n allow jcr:read for oidcUsers\nend",
+        "create path (sling:OrderedFolder) /content/dam/oidc",
+        "create path (nt:unstructured) /content/dam/oidc/jcr:content",
+        "set properties on /content/dam/oidc/jcr:content\n  set cq:conf{String} to /conf/oidc\n  set jcr:title{String} to \"OIDC Authentication\"\nend"
+    ]
+}
